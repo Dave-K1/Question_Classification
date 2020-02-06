@@ -7,13 +7,8 @@ Two approaches have been implemented. The first implements tokenization from scr
 
 The net is implemented in PyTorch. It consists of an LSTM cell and two linear layers.
 
-The result is a classifier with a recall of XX? and F1 score of XX?.
-
-Thanks to ... for the exploration part.
 
 ## Files
-* Exploration - exploration and solution by ...
+* Exploration
 
-* Questions_questions_final - complete solution
-
-
+* Questions_questions_final
